@@ -1,9 +1,9 @@
 banana-ldpatch
 ==============
 
-[![Build Status](https://secure.travis-ci.org/betehess/banana-rdf-example.png)](http://travis-ci.org/betehess/banana-rdf-example) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/w3c/banana-rdf?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://secure.travis-ci.org/betehess/banana-ldpatch.png)](http://travis-ci.org/betehess/banana-ldpatch) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/w3c/banana-rdf?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-To run the tests for the JVM and JS projects, do
+To run the tests for all projects:
 
 ```
 sbt test
